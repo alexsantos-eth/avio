@@ -36,12 +36,13 @@ Registro
 
 - Publicar info de empresa
 - Publicar menus
+- ### Plan premium:
+  - ### No hagas nada solo vende
+  - Confirme pedido (Escribe la palabra “CONFIRMO”)
+  - Chatbot que pregunte y verifique la dirección si no esta
+  - Proceso de tracking
 
 ## Proceso de compra
 
 - cliente selecciona comida/menu
 - negocio llama o escribe por WhatsApp
-- Plan premium:
-- No hagas nada solo vende
-- Confirme pedido (Escribe la palabra “CONFIRMO”)
-- Chatbot que pregunte y verifique la dirección si no esta \* Proceso de tracking
