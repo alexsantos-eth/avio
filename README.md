@@ -1,5 +1,7 @@
 # AVIO - Comer lo que sea
 
+![Base mockup](https://github.com/alexsantos-eth/avio/raw/main/mockups/base.png)
+
 ## Pide comida random
 
 ### Presiona un boton y la app te dara comida aleatoria cercana
